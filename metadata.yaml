@@ -1,0 +1,34 @@
+_repo: Dwarf-Fruit-Treesto-the-United-States-and-Canada_38024
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waugh, F. A. (Frank Albert)
+    alias: Waugh, Frank Albert
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '39205'
+    url: http://www.gutenberg.org/2009/agents/39205
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Albert_Waugh
+description: ''
+gutenberg_issued: '2011-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38024'
+  lccn: 06029067
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fruit-culture'
+- !lcc 'SB'
+tableOfContents: Preface -- General considerations -- Advantages and disadvantages
+  -- Propagation -- Pruning -- Special forms -- General management -- Dwarf apples
+  -- Dwarf pears -- Dwarf peaches -- Dwarf plums -- Bush fruits -- Fruit trees in
+  pots -- Personalia.
+title: "Dwarf Fruit Trees\r\nTheir propagation, pruning, and general management, adapted\
+  \ to the United States and Canada"
+url: http://www.gutenberg.org/ebooks/38024
